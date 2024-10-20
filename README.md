@@ -3,7 +3,7 @@
 #### Travel App for Planning and Booking Trips
 
 ## Live Demo
-- [Travel Application](https://sktravosy.vercel.app/)
+- [Travosy Application](https://sktravosy.vercel.app/)
 
 ## Overview
 The Travel Application is designed to help users plan and book their trips effortlessly. It provides a user-friendly interface for searching destinations, viewing travel packages, and managing bookings. The app utilizes modern web technologies to ensure a smooth experience.
@@ -19,6 +19,6 @@ The Travel Application is designed to help users plan and book their trips effor
 - **Node.js**
 - **Express.js**
 
-![Travosy](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729008417/Screenshot_2024-10-10_222006_wcudoi.png)
-![Travosy](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729430730/Screenshot_2024-10-21_185429_xusili.png)
+![Travosy Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729008417/Screenshot_2024-10-10_222006_wcudoi.png)
+![Travosy Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729430730/Screenshot_2024-10-21_185429_xusili.png)
 
