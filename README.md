@@ -1,7 +1,5 @@
 # Travosy Application
 
-#### Travel App for Planning and Booking Trips
-
 ## Live Demo
 - [Travosy Application](https://sktravosy.vercel.app/)
 
